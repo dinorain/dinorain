@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm Dustin Jourdan ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-bryksin)](https://www.linkedin.com/in/dustinjourdan/), currently a software developer focusing on Golang and Python.
+I'm Dustin Jourdan ![Linkedin Badge](https://www.linkedin.com/in/dustinjourdan/), currently a software developer focusing on Golang and Python.
 
 ## 🚀  Some Tools I Use
 <p align="left">
